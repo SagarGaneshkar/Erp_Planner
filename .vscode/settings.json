@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.referencedLibraries": [
+    "lib\\ResultSet2xml.jar",
+    "e:\\University_Management_System\\lib\\jcalendar-tz-1.3.3-4.jar",
+    "e:\\University_Management_System\\lib\\mysql-connector-j-9.2.0.jar"
+  ]
+}
